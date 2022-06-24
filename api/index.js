@@ -18,7 +18,7 @@ app.use(fileUpload());
 var connection = mysql.createConnection({
     host: "localhost",
     user: "root",
-    password: "0c81afbfe29c3fd8b41426b8b8d8d58110fb58ed02049f45",
+    password: "GcEWPG9c33N5Qkq",
     // password: "",
     database: "db_keo",
   });
